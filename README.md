@@ -1,5 +1,5 @@
 Frissítés:
-Mostantól visszanézhetők a magyar műsorok, amik felkerültek a mediaklikk-re. Igény szerínt bővíthető a lista.
+Mostantól visszanézhetők a magyar műsorok, amik felkerültek a mediaklikk-re. Igény szerint bővíthető a lista.
 
 # 📺 Magyar TV (MTVA) IPTV Generátor
 
