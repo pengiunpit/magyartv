@@ -25,10 +25,10 @@ def get_local_ip():
 HOST_IP = os.environ.get("HOST_IP", get_local_ip())
 
 # FIGYELEM: A Dockerfile WORKDIR beállítása miatt ezek az útvonalak fixek!
-# Itt van az átírás, amit kerestél:
 SHOWS_FILE = "/magyartv/config/shows.txt"
 VOD_DIR = "/magyartv/vod_output"
 
+# Mintha böngészőből néznénk!
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
     'Referer': 'https://mediaklikk.hu/',
